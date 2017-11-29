@@ -1,0 +1,4 @@
+App name: Contoso_bankBot
+
+App ID: 565eadb8-e569-4677-9062-d70d6317e97e
+password: fboOVM53_#{]qjewETCP510
